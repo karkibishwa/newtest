@@ -1,3 +1,6 @@
 Hello World
 Edited
 Added after someone raised PR new
+Merge conflict resolved
+
+
